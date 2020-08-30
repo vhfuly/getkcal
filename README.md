@@ -26,3 +26,10 @@ Para executá-la é muito simples, basta rodar os seguintes comandos:
   $ cd getkcal # para acessar a pasta clonada do git
   $ npm init -y # inicializando o package.json
   $ npx serve . # rodando o servidor node
+```
+
+## Link da aplicação 
+
+No link abaixo é possível ter acesso ao site da aplicação:
+
+[Getkcal](https://getkcaloria.netlify.app/) 

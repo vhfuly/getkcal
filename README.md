@@ -1,8 +1,8 @@
-<p align="center">
+<div align ="center">
 
-  ![logo](https://raw.githubusercontent.com/vhfuly/getkcal/master/.github/logo.svg)
+  [![logo](https://raw.githubusercontent.com/vhfuly/getkcal/master/.github/logo.svg)]
 
-</p>
+</div>
 
 # getkcal
 

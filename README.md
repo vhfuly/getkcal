@@ -1,3 +1,5 @@
+
+![logo](https://raw.githubusercontent.com/vhfuly/getkcal/master/.github/logo.svg)
 # getkcal
 
 É uma aplicação que calcula o metabolismo basal e as calorias médias para manter, perder ou ganhar peso.

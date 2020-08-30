@@ -1,6 +1,6 @@
 <div align ="center">
 
-  ![getkcal]("https://raw.github.com/vhfuly/getkcal/master/.github/logo.svg")
+  <img src="/.github/logo.svg"></img>
 
 </div>
 

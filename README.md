@@ -1,6 +1,6 @@
 <div align ="center">
 
-  <img src="https://github.com/vhfuly/getkcal/blob/master/.github/logo.svg" alt="Unform" />
+  <img src="https://github.com/vhfuly/getkcal/master/.github/logo.svg" alt="getkcal" />
 
 </div>
 

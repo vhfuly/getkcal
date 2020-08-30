@@ -1,6 +1,6 @@
 <div align ="center">
 
-  <img src="https://github.com/vhfuly/getkcal/master/.github/logo.svg" alt="getkcal" />
+  <img src="https://raw.github.com/vhfuly/getkcal/master/.github/logo.svg" alt="getkcal" />
 
 </div>
 
